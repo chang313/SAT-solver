@@ -14,9 +14,9 @@ Type of program : Command line interface
 
 On the command line, type the command like following example format.
 
-*ex) $ python3 [solvepy3.py](http://solvepy3.py) "test.cnf"*
+*ex) $ python3 solvepy3.py "test.cnf"*
 
-[**solvepy3.py**](http://solvepy3.py) is python source file and **"test.cnf"** is arbitrary cnf format file that you want to test. 
+solvepy3.py is python source file and **"test.cnf"** is arbitrary cnf format file that you want to test. 
 
 ---
 
